@@ -219,11 +219,12 @@ footer{
 /** end of section **/
 #sidebar{
   margin-top: 2%;
-  width: 23%;
+  width: 23.6%;
   position: fixed;
   top: 60px; 
   float: left;
-  height: 87vh;
+  height: 53vh;
+  overflow-y: scroll;
   background-color: #262626;
   vertical-align: middle;
   
